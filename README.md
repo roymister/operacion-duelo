@@ -16,8 +16,9 @@ Shooter 3D en primera persona estilo *Call of Duty* que corre directamente en el
 
 ## 📸 Vista previa
 
-<!-- Sube una captura del juego al repositorio y reemplaza la ruta -->
-![Captura del juego](captura.png)
+
+<img width="1812" height="824" alt="image" src="https://github.com/user-attachments/assets/68dade4d-1711-45e0-ade6-fb57a5797bf5" />
+
 
 ---
 
